@@ -23,3 +23,10 @@
     width: 400px;
     padding: 50px 25px;
 }
+
+/* Add CSS rule to type selector */
+
+img {
+    width: 350px;
+    height: 200px;
+}
