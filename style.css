@@ -45,4 +45,10 @@ img {
 
 /* Add CSS rule to descendant combinator */
 
-
+.click-here  a {
+    display: block;
+    height: inherit;
+    width: inherit;
+    text-align: center;
+    padding: 15px 0;
+}
