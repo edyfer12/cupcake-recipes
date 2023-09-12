@@ -13,6 +13,7 @@
     margin: 30px auto;
     height: 715px;
     background-color: white;
+    border: 1px solid black;
 }
 
 /* Stylise the class selector */
@@ -22,6 +23,7 @@
     height: 615px;
     width: 400px;
     padding: 25px 25px 50px;
+    border: 1px solid black;
 }
 
 /* Add CSS rule to type selector */
