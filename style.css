@@ -31,8 +31,6 @@ img {
     height: 200px;
 }
 
-/* Add CSS rule to class selector */
-
 /* Add CSS rule to descendant combinator */
 
 .info .start {
