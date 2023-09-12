@@ -35,7 +35,9 @@ img {
 
 /* Add CSS rule to descendant combinator */
 
-
+.info .start {
+    margin-top:10px;
+}
 
 /* Add CSS rule to class selector */
 
