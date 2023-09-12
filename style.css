@@ -51,4 +51,8 @@ img {
     width: inherit;
     text-align: center;
     padding: 15px 0;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    font-weight: 800;
 }
