@@ -61,3 +61,6 @@ img {
 
 /* Add CSS rule for type selector */
 
+body {
+    background-color: black;
+}
