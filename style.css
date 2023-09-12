@@ -38,9 +38,9 @@ img {
 /* Add CSS rule to class selector */
 
 .click-here {
-    margin: 10px auto;
     height: 50px;
     width: 200px;
+    margin: 20px auto 0;
 }
 
 /* Add CSS rule to type selector */
