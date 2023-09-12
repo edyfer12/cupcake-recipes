@@ -1,1 +1,5 @@
 /* For the universal selector, stylise all the elements */
+
+* {
+    border: 1px solid black;
+}
