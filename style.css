@@ -68,3 +68,7 @@ body {
 }
 
 /* Add CSS rule for the type selector */
+
+h1{
+    margin-bottom: 10px;
+}
