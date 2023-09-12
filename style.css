@@ -16,3 +16,10 @@
 }
 
 /* Stylise the class selector */
+
+.card {
+    margin: 50px;
+    height: 615px;
+    width: 400px;
+    padding: 50px 25px;
+}
