@@ -1,3 +1,3 @@
 # cupcake-recipes
 
-This webpage illustrates on the list of ingredients and steps needed to make a cupcake. 
+This webpage illustrates on the list of ingredients and times taken to make that cupcake. 
